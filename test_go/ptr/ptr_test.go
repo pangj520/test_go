@@ -2,6 +2,6 @@ package ptr
 
 import "testing"
 
-func TestPtrConvertTo(t *testing.T) {
-	PtrConvertTo()
+func TestPtr(t *testing.T) {
+	testPtr()
 }

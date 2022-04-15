@@ -10,7 +10,7 @@ type Admin struct {
 	Age  int
 }
 
-func PtrConvertTo() {
+func testPtr() {
 	admin := Admin{
 		Age:  18,
 		Name: "seekload",
